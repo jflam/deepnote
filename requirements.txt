@@ -31,7 +31,7 @@ jupyter-telemetry==0.0.4
 jupyterhub==1.1.0
 jupyterlab==1.2.6
 jupyterlab-server==1.0.6
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 mistune==0.8.4
 more-itertools==8.2.0
